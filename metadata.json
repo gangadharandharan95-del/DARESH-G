@@ -1,0 +1,6 @@
+{
+  "name": "HealthSync",
+  "description": "Intelligent Patient Case Tracking & Clinical Decision Support System with interactive visualizations, workload simulation, and healthcare workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
